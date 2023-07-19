@@ -19,7 +19,7 @@ This app shows a list of NYC High schools. Selecting any school navigates to mor
         ○ Network layer - APIs
 ● Packages - Swift Package Manager
 ● Added SwiftLint script in build phases...
-        ○ Using this Project will always follow the clean code standard... 
+        ○ Using this Project will always follow the clean code standard 
 
 ## Offline Support
 
